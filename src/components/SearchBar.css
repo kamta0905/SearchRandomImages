@@ -1,0 +1,23 @@
+.flexContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.inputStyle{
+    font-size: 1.5em;
+	padding: 10px;
+    display: inline-block;
+    width: 60%;
+    margin-right: 20px;
+    background-color: aliceblue;
+}
+.search{
+    font-size: 1.5em;
+	padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    
+}
